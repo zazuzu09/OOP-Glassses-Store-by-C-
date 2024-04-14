@@ -1,0 +1,5 @@
+Product_ID          Name                          Price               Amount    Create Date                   
+PR01                kinh1                         100000              0         Sun Apr 14 13:44:07 2024      
+PR02                kinh2                         200000              5         Sun Apr 14 13:44:42 2024      
+PR03                kinh3                         300000              30        Sun Apr 14 13:45:02 2024      
+PR04                test1                         400000              40        Sun Apr 14 13:45:31 2024      
